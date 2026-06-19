@@ -1,0 +1,11 @@
+department_id,dept_name,total_beds,head_doctor
+1,Emergency,50,Allison Hill
+2,Cardiology,40,Noah Rhodes
+3,Neurology,30,Angie Henderson
+4,Orthopedics,35,Daniel Wagner
+5,Pediatrics,45,Cristian Santos
+6,ICU,20,Connie Lawrence
+7,General Surgery,30,Abigail Shaffer
+8,Oncology,25,Gina Moore
+9,Nephrology,25,Gabrielle Davis
+10,Respiratory Medicine,30,Ryan Munoz
